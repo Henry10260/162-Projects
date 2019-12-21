@@ -1,0 +1,42 @@
+.App 
+{
+  text-align: center;
+}
+
+.App-logo 
+{
+  height: 40vmin;
+}
+
+.App-header 
+{
+  background-color: rgb(7, 122, 113);
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+}
+
+.App-link 
+{
+  color: #09d3ac;
+}
+
+.App-content 
+{
+  margin: 30px;
+}
+
+ul
+{
+    text-align: left;
+}
+h1
+{
+  background-color: rgb(7, 122, 113);
+  font-size: calc(7px + 2vmin);
+  font-family: monospace;
+  text-align: left;
+}
